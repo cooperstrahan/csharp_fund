@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/bin/Debug/netcoreapp2.2/FundOne.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/bin/Debug/netcoreapp2.2/FundOne.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/bin/Debug/netcoreapp2.2/FundOne.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/bin/Debug/netcoreapp2.2/FundOne.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/bin/Debug/netcoreapp2.2/FundOne.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/FundOne/obj/Debug/netcoreapp2.2/FundOne.pdb
